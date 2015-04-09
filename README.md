@@ -6,6 +6,7 @@ HTML and CSS Helpful Stuff
 html {
   box-sizing: border-box;
 }
+
 *, *:before, *:after {
   box-sizing: inherit;
 }
