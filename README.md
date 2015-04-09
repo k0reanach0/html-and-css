@@ -6,7 +6,7 @@ However, I have found this method quite limiting in terms of ability to scale. A
 
 My solution is therefore to work with rem (using pixels as a fallback).
 
-```
+```css
 html {
   font-size: 62.5%; /* sets the base font to 10px for easier math */
 }
@@ -25,7 +25,7 @@ h1 {
 
 This allows me to scale up my font sizes simply by writing -
 
-```
+```css
 @media screen and (min-width: 1280px) {
   html {
     font-size: 100%;
