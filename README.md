@@ -1,5 +1,5 @@
 # html-and-css
-HTML and CSS Helpful Stuff Test
+HTML and CSS Helpful Stuff
 
 #### Famous Box Model
 ```css
